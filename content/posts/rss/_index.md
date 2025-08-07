@@ -1,3 +1,7 @@
-{{ range where .Site.RegularPages "Section" "posts" }}
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-{{ end }}
++++
+title = 'Nieuws'
+date = 2025-08-06T23:58:55+02:00
+draft = false
+menus = 'main'
++++
+
