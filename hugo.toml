@@ -6,7 +6,7 @@ defaultContentLanguage = "nl"
 
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-theme = "terminal"
+theme = "papermod"
 pagination.pagerSize = 5
 
 # Required for Chroma and the custom syntax highlighting.
