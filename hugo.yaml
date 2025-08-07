@@ -1,0 +1,31 @@
+title: Hackerspaces in Nederland
+baseurl: /hugo/
+languageCode: nl-nl
+defaultContentLanguage: nl
+theme: papermod
+pagination:
+  pagerSize: 5
+ignoreLogs:
+  - warning-goldmark-raw-html
+markup:
+  highlight:
+    noClasses: false
+params:
+  contentTypeName: posts
+  showMenuItems: 8
+  showLanguageSelector: false
+  fullWidthTheme: false
+  centerTheme: true
+  autoCover: true
+  showLastUpdated: true
+  Toc: false
+  dateFormat: 2006-01-02
+languages:
+  nl:
+    languageName: NL
+    title: Hackerspaces in Nederland
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
