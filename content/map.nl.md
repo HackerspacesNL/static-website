@@ -25,3 +25,29 @@ menus = 'main'
 | [TechInc](https://techinc.nl/) | Louwesweg 1 | 1066 EA | Amsterdam  | ✔ |
 | [TkkrLab](https://tkkrlab.nl/) | Marssteden 98 | 7547 TD | Enschede | ✔ |
 
+**Tip**: Hackerspaces zijn er in verschillende soorten en maten. Verdiep je in de
+space waar je heen wil: fysieke locatie, grootte, bereikbaarheid, openingstijden,
+atmosfeer en beleid wisselt van space tot space. Zo kan de ene space bij je passen,
+maar de andere juist absoluut niet. Kijk dus gerust eerst rond.
+
+Geen space bij jou in de omgeving? Begin dan een eigen hackerspace.
+
+[Belgische hackerspaces](https://hackerspaces.be/) kan je vinden op [https://hackerspaces.be/](https://hackerspaces.be/).
+
+## Andere gerelateerde links
+
+ - [Hackeropuit.nl](https://hackeropuit.nl) – Evenementen door en voor hackers
+ - [Matrix/irc](https://riot.im/app/#/group/+hackerspaces:nltrix.net) lijst
+ - [Heatmap alle spaces](https://mapall.space/heatmap/)
+ - [Online Kaart hackerspaces & fablabs wereldwijd](https://mapall.space/)
+ - Printbare [kaart van Nederlandse hackerspaces](https://hackerspaces.nl/wp-content/uploads/2024/10/hackerspace_kaart_2_2.png)
+
+## Overige collectieven
+
+Onderstaande plekken zijn geen typische hackerspaces, maar hebben er wel raakvlakken mee. Check ook de FabLab site met alle FabLabs.
+
+| Space + Link | Adres | Postcode | Plaats | Eigen Ruite |
+| ------------ | ----- | -------- | ------ | ----------- |
+| [LAG](https://laglab.org/) | Eerste Schinkelstraat 16 | 1075 TX | Amsterdam | ✔ |
+| [Maakplek](http://maakplek.nl/) | Struisvogelstraat 15 | 9713 BT | Groningen | ✔ |
+| [Makerspace Leiden](https://makerspaceleiden.nl/) | Volmolengracht 13 | 2312PG |Leiden | ✔ |
