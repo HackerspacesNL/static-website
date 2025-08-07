@@ -10,7 +10,12 @@ from pathlib import Path
 # Example RSS feeds
 feeds = [
     "https://bitlair.nl/Special:Ask/-5B-5BCategory:Nieuws-5D-5D/mainlabel%3D/limit%3D50/order%3Ddesc/sort%3DNews-20date/offset%3D0/format%3Dfeed/searchlabel%3DAtom/type%3Datom/title%3DBitlair-20Nieuws/page%3Dfull",
-    "https://hack42.nl/blog/feed"
+    "https://hack42.nl/blog/feed",
+    "https://www.hackerspace-drenthe.nl/feed/",
+    "https://www.pixelbar.nl/atom.xml",
+    "https://revspace.nl/index.php?title=Special%3AAsk&q=%5B%5BCategory%3ANewsItem%5D%5D%0D%0A&po=&eq=yes&p%5Bformat%5D=feed&sort_num=&order_num=ASC&p%5Blimit%5D=&p%5Boffset%5D=&p%5Blink%5D=all&p%5Bsort%5D=NewsItem_Date&p%5Border%5D%5Bdesc%5D=1&p%5Bheaders%5D=",
+    "http://tdvenlo.nl/?feed=atom",
+    "https://www.tkkrlab.com/feed/"
 ]
 
 output_dir = Path("content/posts/rss")
