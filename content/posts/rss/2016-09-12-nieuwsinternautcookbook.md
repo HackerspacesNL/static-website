@@ -1,11 +1,12 @@
----
-title: Nieuws/InternautCookbook
-date: 2016-09-12T00:22:32
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/InternautCookbook
-draft: False
----
++++
+title = 'Nieuws/InternautCookbook'
+date = '2016-09-12T00:22:32'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/InternautCookbook'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/InternautCookbook</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

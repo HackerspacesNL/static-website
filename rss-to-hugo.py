@@ -32,15 +32,16 @@ def get_entry_date(entry):
         return datetime.now()
 
 def write_markdown_file(filepath, metadata, content):
-    frontmatter = "---\n"
+    frontmatter = "+++\n"
     for key, value in metadata.items():
         if isinstance(value, list):
-            frontmatter += f"{key}:\n"
+            frontmatter += f"{key} = [ \n"
             for item in value:
-                frontmatter += f"  - {item}\n"
+                frontmatter += f" '{item}' \n"
+            frontmatter += f"] \n"
         else:
-            frontmatter += f"{key}: {value}\n"
-    frontmatter += "---\n\n"
+            frontmatter += f"{key} = '{value}'\n"
+    frontmatter += "+++\n\n"
     frontmatter += content
 
     with open(filepath, "w", encoding="utf-8") as f:

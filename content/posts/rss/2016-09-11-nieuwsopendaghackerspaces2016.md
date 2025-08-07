@@ -1,11 +1,12 @@
----
-title: Nieuws/OpenDagHackerspaces2016
-date: 2016-09-11T22:05:47
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/OpenDagHackerspaces2016
-draft: False
----
++++
+title = 'Nieuws/OpenDagHackerspaces2016'
+date = '2016-09-11T22:05:47'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/OpenDagHackerspaces2016'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/OpenDagHackerspaces2016</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

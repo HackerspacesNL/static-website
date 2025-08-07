@@ -1,11 +1,12 @@
----
-title: Nieuws/BrandbriefNationaleHackergemeenschapBeveiligingOverheid
-date: 2016-09-12T00:55:34
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/BrandbriefNationaleHackergemeenschapBeveiligingOverheid
-draft: False
----
++++
+title = 'Nieuws/BrandbriefNationaleHackergemeenschapBeveiligingOverheid'
+date = '2016-09-12T00:55:34'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/BrandbriefNationaleHackergemeenschapBeveiligingOverheid'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/BrandbriefNationaleHackergemeenschapBeveiligingOverheid</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

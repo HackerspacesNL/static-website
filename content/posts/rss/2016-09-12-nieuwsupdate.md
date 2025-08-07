@@ -1,11 +1,12 @@
----
-title: Nieuws/Update
-date: 2016-09-12T00:36:50
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/Update
-draft: False
----
++++
+title = 'Nieuws/Update'
+date = '2016-09-12T00:36:50'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/Update'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/Update</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

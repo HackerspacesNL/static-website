@@ -1,11 +1,12 @@
----
-title: Nieuws/LED verlichting uitgerold bij Winterparadijs Eemplein Amersfoort
-date: 2017-11-24T20:19:03
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/LED_verlichting_uitgerold_bij_Winterparadijs_Eemplein_Amersfoort
-draft: False
----
++++
+title = 'Nieuws/LED verlichting uitgerold bij Winterparadijs Eemplein Amersfoort'
+date = '2017-11-24T20:19:03'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/LED_verlichting_uitgerold_bij_Winterparadijs_Eemplein_Amersfoort'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/LED verlichting uitgerold bij Winterparadijs Eemplein Amersfoort</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

@@ -1,11 +1,12 @@
----
-title: Nieuws/Space2 Hello World
-date: 2016-11-01T16:28:08
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/Space2_Hello_World
-draft: False
----
++++
+title = 'Nieuws/Space2 Hello World'
+date = '2016-11-01T16:28:08'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/Space2_Hello_World'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/Space2 Hello World</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

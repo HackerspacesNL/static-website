@@ -1,11 +1,12 @@
----
-title: Nieuws/Weekend van de wetenschap 2018
-date: 2018-10-05T07:23:57
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/Weekend_van_de_wetenschap_2018
-draft: False
----
++++
+title = 'Nieuws/Weekend van de wetenschap 2018'
+date = '2018-10-05T07:23:57'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/Weekend_van_de_wetenschap_2018'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/Weekend van de wetenschap 2018</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

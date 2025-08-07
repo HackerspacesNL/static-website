@@ -1,11 +1,12 @@
----
-title: Nieuws/DJO en Bitlair zijn verhuisd
-date: 2017-01-22T14:14:01
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/DJO_en_Bitlair_zijn_verhuisd
-draft: False
----
++++
+title = 'Nieuws/DJO en Bitlair zijn verhuisd'
+date = '2017-01-22T14:14:01'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/DJO_en_Bitlair_zijn_verhuisd'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/DJO en Bitlair zijn verhuisd</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

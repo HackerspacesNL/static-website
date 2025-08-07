@@ -1,11 +1,12 @@
----
-title: Nieuws/HiTBHackerspaceContest
-date: 2016-09-12T01:05:15
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/HiTBHackerspaceContest
-draft: False
----
++++
+title = 'Nieuws/HiTBHackerspaceContest'
+date = '2016-09-12T01:05:15'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/HiTBHackerspaceContest'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/HiTBHackerspaceContest</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

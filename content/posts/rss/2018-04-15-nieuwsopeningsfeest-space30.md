@@ -1,11 +1,12 @@
----
-title: Nieuws/Openingsfeest Space3.0
-date: 2018-04-15T16:13:58
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/Openingsfeest_Space3.0
-draft: False
----
++++
+title = 'Nieuws/Openingsfeest Space3.0'
+date = '2018-04-15T16:13:58'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/Openingsfeest_Space3.0'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/Openingsfeest Space3.0</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

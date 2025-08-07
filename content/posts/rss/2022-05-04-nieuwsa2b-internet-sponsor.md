@@ -1,11 +1,12 @@
----
-title: Nieuws/A2B Internet Sponsor
-date: 2022-05-04T08:15:55
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/A2B_Internet_Sponsor
-draft: False
----
++++
+title = 'Nieuws/A2B Internet Sponsor'
+date = '2022-05-04T08:15:55'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/A2B_Internet_Sponsor'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/A2B Internet Sponsor</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

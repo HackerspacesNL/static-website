@@ -1,11 +1,12 @@
----
-title: Nieuws/Bookcrossing
-date: 2016-09-12T01:00:38
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/Bookcrossing
-draft: False
----
++++
+title = 'Nieuws/Bookcrossing'
+date = '2016-09-12T01:00:38'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/Bookcrossing'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/Bookcrossing</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />

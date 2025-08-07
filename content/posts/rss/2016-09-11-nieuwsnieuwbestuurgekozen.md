@@ -1,11 +1,12 @@
----
-title: Nieuws/NieuwBestuurGekozen
-date: 2016-09-11T22:38:34
-categories:
-  - Bitlair Nieuws
-link: https://bitlair.nl/Nieuws/NieuwBestuurGekozen
-draft: False
----
++++
+title = 'Nieuws/NieuwBestuurGekozen'
+date = '2016-09-11T22:38:34'
+categories = [ 
+ 'Bitlair Nieuws' 
+] 
+link = 'https://bitlair.nl/Nieuws/NieuwBestuurGekozen'
+draft = 'False'
++++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/NieuwBestuurGekozen</a>
 </p></div><div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><br />
