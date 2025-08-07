@@ -12,7 +12,8 @@ markup:
     noClasses: false
 params:
   contentTypeName: posts
-  showMenuItems: 8
+  showMenuItems: 12
+  ShowPostCategories: true
   showLanguageSelector: false
   fullWidthTheme: false
   centerTheme: true
@@ -24,6 +25,9 @@ languages:
   nl:
     languageName: NL
     title: Hackerspaces in Nederland
+taxonomies:
+  category: categories
+  tag: tags
 outputs:
   home:
     - HTML

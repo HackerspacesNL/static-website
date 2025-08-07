@@ -1,0 +1,19 @@
+{{ define "main" }}
+  {{ range .Pages }}
+    <article>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <p><small>{{ .Date.Format "Jan 2, 2006" }}</small></p>
+
+      {{ with .Params.categories }}
+        <p>Categories:
+          {{ range $i, $cat := . }}
+            <a href="{{ (print "categories/" $cat | urlize | relURL) }}">{{ $cat }}</a>{{ if lt (add $i 1) (len .) }}, {{ end }}
+          {{ end }}
+        </p>
+      {{ end }}
+
+      <p>{{ .Summary }}</p>
+    </article>
+  {{ end }}
+{{ end }}
+
