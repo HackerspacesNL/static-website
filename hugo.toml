@@ -1,7 +1,9 @@
 title = 'Hackerspaces in Nederland'
 
-baseurl = "/"
-languageCode = "nl-nl, en-us"
+baseurl = "/hugo/"
+languageCode = "nl-nl"
+defaultContentLanguage = "nl"
+
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal"
@@ -20,7 +22,7 @@ pagination.pagerSize = 5
   showMenuItems = 8
 
   # show selector to switch language
-  showLanguageSelector = true
+  showLanguageSelector = false
 
   # set theme to full screen width
   fullWidthTheme = false
@@ -45,7 +47,7 @@ pagination.pagerSize = 5
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = false # default
+  Toc = false # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
@@ -61,7 +63,7 @@ pagination.pagerSize = 5
   # This value can be customized according to Hugo documentation:
   # https://gohugo.io/functions/time/format/
   # Default value (no changes needed):
-  # dateFormat = "2006-01-02"
+  dateFormat = "2006-01-02"
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
@@ -77,28 +79,28 @@ pagination.pagerSize = 5
   [languages.nl]
     languageName = "NL"
     title = "Hackerspaces in Nederland"
-  [languages.en]
-    languageName = "EN"
-    title = "Hackerspaces in Nederland"
-
-    [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
-      copyright = ""
-      menuMore = "Show more"
-      readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
-      missingContentMessage = "Page not found..."
-      missingBackButtonLabel = "Back to home page"
-      minuteReadingTime = "min read"
-      words = "words"
-
+#  [languages.en]
+#    languageName = "EN"
+#    title = "Hackerspaces in Nederland"
+#
+#    [languages.en.params]
+#      subtitle = "A simple, retro theme for Hugo"
+#      owner = ""
+#      keywords = ""
+#      copyright = ""
+#      menuMore = "Show more"
+#      readMore = "Read more"
+#      readOtherPosts = "Read other posts"
+#      newerPosts = "Newer posts"
+#      olderPosts = "Older posts"
+#      missingContentMessage = "Page not found..."
+#      missingBackButtonLabel = "Back to home page"
+#      minuteReadingTime = "min read"
+#      words = "words"
+#
       [languages.nl.params.logo]
         logoText = "HSNL"
         logoHomeLink = "/"
-      [languages.en.params.logo]
-        logoText = "HSNL"
-        logoHomeLink = "/"
+#      [languages.en.params.logo]
+#        logoText = "HSNL"
+#        logoHomeLink = "/"

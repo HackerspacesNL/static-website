@@ -1,0 +1,108 @@
+<!-- Leaflet CSS (only loaded once) -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+/>
+
+<!-- Map container -->
+<div id="map" style="height: 600px;"></div>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+<style>
+#map {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.leaflet-container {
+  background: #fff;
+  z-index: 1000;
+  position: relative;
+}
+
+.leaflet-tile {
+  border: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  image-rendering: pixelated;
+}
+
+.leaflet-marker-pane img {
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  background: transparent !important;
+  opacity: 1 !important;
+}
+</style>
+
+<!-- Map script -->
+<script>
+      // create a map of NL
+      var map = L.map('map').setView([52.1460121, 5.9052025], 7);
+      // add an OpenStreetMap tile layer
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'}).addTo(map);
+
+      // popup function
+      function onEachFeature(feature, layer) {
+        // does this feature have a property named popupContent?
+        if (feature.properties && feature.properties.popupContent) {
+          layer.bindPopup(feature.properties.popupContent);
+        }
+        else if (feature.properties.name) {
+          var name = feature.properties.name || "Unknown";
+          var address = feature.properties.address || "";
+          var zip = feature.properties.zip || "";
+          var city = feature.properties.city || "";
+          var url = feature.properties.url || "";
+          var description = feature.properties.description || "";
+
+          var html = `
+            <b>${name}</b><br/>
+            ${address}<br/>
+            ${zip} ${city}<br/>
+            ${url ? "<a href='" + url + "' target='_blank'>website</a><br/>" : ""}
+            ${description}
+          `;
+
+          layer.bindPopup(html);
+}
+        else{
+          console.log("oneachfeature");
+        };
+
+      }
+      // styling funtion
+      function pointToLayer(feature, latlon) {
+        var iconurl = feature.properties['marker-symbol'];
+
+        // Fallback to default marker if no icon
+        var icon = iconurl
+          ? new L.icon({
+              iconUrl: iconurl,
+              iconSize: [30, 70],
+              iconAnchor: [15, 35],
+              popupAnchor: [0, -25]
+            })
+          : new L.Icon.Default();
+
+        return new L.Marker(latlon, { icon: icon });
+      }
+
+      var geojsonURL = 'https://hackerspaces.nl/hsmap/hsnl.geojson';
+      $.ajax({
+        type: "GET",
+        url: geojsonURL,
+        dataType: 'json',
+        success: function (response) {
+          geojsonLayer = L.geoJson(response, {
+            onEachFeature: onEachFeature,
+            pointToLayer: pointToLayer
+          }).addTo(map);
+        }
+      });
+</script>
+</div>
