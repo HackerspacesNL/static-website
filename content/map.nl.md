@@ -7,7 +7,7 @@ menus = 'main'
 
 {{< hackerspacemap >}}
 
-| Space + Link | Adres | Postcode | Plaats | Eigen Ruite |
+| Space + Link | Adres | Postcode | Plaats | Eigen Ruimte |
 | ------------ | ----- | -------- | ------ | ----------- |
 | [ACKspace](https://www.ackspace.nl) | Kloosterweg 1 | 6412 CN | Heerlen | ✔ |
 | [AwesomeSpace](https://awesomespace.nl) | Franciscusweg 18 | 1216 SK  | Hilversum | ✔ |
@@ -46,7 +46,7 @@ Geen space bij jou in de omgeving? Begin dan een eigen hackerspace.
 
 Onderstaande plekken zijn geen typische hackerspaces, maar hebben er wel raakvlakken mee. Check ook de FabLab site met alle FabLabs.
 
-| Space + Link | Adres | Postcode | Plaats | Eigen Ruite |
+| Space + Link | Adres | Postcode | Plaats | Eigen Ruimte |
 | ------------ | ----- | -------- | ------ | ----------- |
 | [LAG](https://laglab.org/) | Eerste Schinkelstraat 16 | 1075 TX | Amsterdam | ✔ |
 | [Maakplek](http://maakplek.nl/) | Struisvogelstraat 15 | 9713 BT | Groningen | ✔ |
