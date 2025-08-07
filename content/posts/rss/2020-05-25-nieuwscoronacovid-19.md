@@ -1,11 +1,9 @@
 +++
-title = 'Nieuws/Corona/Covid-19'
-date = '2020-05-25T21:57:03'
-categories = [ 
- 'Bitlair Nieuws' 
-] 
-link = 'https://bitlair.nl/Nieuws/Corona/Covid-19'
-draft = 'False'
+title = "Nieuws/Corona/Covid-19"
+date = "2020-05-25T21:57:03"
+categories = [ "Bitlair Nieuws",]
+link = "https://bitlair.nl/Nieuws/Corona/Covid-19"
+draft = false
 +++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/Corona/Covid-19</a>

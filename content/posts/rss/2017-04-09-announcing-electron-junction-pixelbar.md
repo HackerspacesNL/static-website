@@ -1,11 +1,9 @@
 +++
-title = 'Announcing Electron Junction @ Pixelbar'
-date = '2017-04-09T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2017/04/09/announcing-electron-junction/'
-draft = 'False'
+title = "Announcing Electron Junction @ Pixelbar"
+date = "2017-04-09T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2017/04/09/announcing-electron-junction/"
+draft = false
 +++
 
 <p>We’re happy to announce <a href="https://electronjunction.nl">Electron Junction</a>. An event that is all about people that like to tinker and play around with electronics, which can be as simple as blinking a LED with an Arduino or as complicated as building autonomous robots to explore the universe. While the focus will be on hardware, software will play an important role as well.</p>

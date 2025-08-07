@@ -1,11 +1,9 @@
 +++
-title = 'A refreshing shift in the board.'
-date = '2021-10-16T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2021/10/16/A-Refreshing-Shift-In-The-Board/'
-draft = 'False'
+title = "A refreshing shift in the board."
+date = "2021-10-16T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2021/10/16/A-Refreshing-Shift-In-The-Board/"
+draft = false
 +++
 
 <p>After Pixelbar was founded, David has always been the chairman of Pixelbar and passes the baton to mc.fly. In addition to stopping David, EchteTim stopped his duties within the board a while back. This created 2 vacancies within the board which were completed by Tucje and Nosfaratuss.</p>

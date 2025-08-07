@@ -1,11 +1,9 @@
 +++
-title = 'Announcing NodeSchool Rotterdam'
-date = '2016-09-21T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2016/09/21/announcing-nodeschool/'
-draft = 'False'
+title = "Announcing NodeSchool Rotterdam"
+date = "2016-09-21T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2016/09/21/announcing-nodeschool/"
+draft = false
 +++
 
 <p><img alt="logo" src="http://nodeschool.io/images/schoolhouse.svg" /></p>

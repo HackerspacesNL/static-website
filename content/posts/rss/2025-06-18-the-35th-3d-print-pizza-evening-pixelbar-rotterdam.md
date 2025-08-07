@@ -1,11 +1,9 @@
 +++
-title = 'The 35th 3D Print & Pizza evening @ Pixelbar Rotterdam'
-date = '2025-06-18T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2025/06/18/thirtyfifth-print-pizza-evening/'
-draft = 'False'
+title = "The 35th 3D Print & Pizza evening @ Pixelbar Rotterdam"
+date = "2025-06-18T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2025/06/18/thirtyfifth-print-pizza-evening/"
+draft = false
 +++
 
 <p>Are you interested in 3D printing? Whether you have yet to buy your first 3D printer or already have an entire print farm, the 3D Print &amp; Pizza Meetup is the perfect opportunity to meet like-minded individuals and share your passion. Everyone with an interest in 3D printing is welcome!</p>

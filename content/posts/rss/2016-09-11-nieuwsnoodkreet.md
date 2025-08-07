@@ -1,11 +1,9 @@
 +++
-title = 'Nieuws/Noodkreet'
-date = '2016-09-11T22:01:05'
-categories = [ 
- 'Bitlair Nieuws' 
-] 
-link = 'https://bitlair.nl/Nieuws/Noodkreet'
-draft = 'False'
+title = "Nieuws/Noodkreet"
+date = "2016-09-11T22:01:05"
+categories = [ "Bitlair Nieuws",]
+link = "https://bitlair.nl/Nieuws/Noodkreet"
+draft = false
 +++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/Noodkreet</a>

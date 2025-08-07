@@ -1,11 +1,9 @@
 +++
-title = 'Going next level PARTY on 14 April'
-date = '2018-04-04T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2018/04/04/next-level/'
-draft = 'False'
+title = "Going next level PARTY on 14 April"
+date = "2018-04-04T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2018/04/04/next-level/"
+draft = false
 +++
 
 <div style="width: 100%; height: 0; padding-bottom: 56%;"></div>

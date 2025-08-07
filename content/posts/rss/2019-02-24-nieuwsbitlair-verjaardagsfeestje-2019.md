@@ -1,11 +1,9 @@
 +++
-title = 'Nieuws/Bitlair Verjaardagsfeestje 2019'
-date = '2019-02-24T19:50:52'
-categories = [ 
- 'Bitlair Nieuws' 
-] 
-link = 'https://bitlair.nl/Nieuws/Bitlair_Verjaardagsfeestje_2019'
-draft = 'False'
+title = "Nieuws/Bitlair Verjaardagsfeestje 2019"
+date = "2019-02-24T19:50:52"
+categories = [ "Bitlair Nieuws",]
+link = "https://bitlair.nl/Nieuws/Bitlair_Verjaardagsfeestje_2019"
+draft = false
 +++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/Bitlair Verjaardagsfeestje 2019</a>

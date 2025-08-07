@@ -1,11 +1,9 @@
 +++
-title = 'Buildlog new space and HackerHotel'
-date = '2016-04-05T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2016/04/05/buildlog-new-space-and-hackerhotel/'
-draft = 'False'
+title = "Buildlog new space and HackerHotel"
+date = "2016-04-05T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2016/04/05/buildlog-new-space-and-hackerhotel/"
+draft = false
 +++
 
 <p>Here we are again! Pixelbar, a hackerspace without a space. At least, for now. Since the opening where we announced the upcoming move of the physical location of the space we did a lot of work!</p>

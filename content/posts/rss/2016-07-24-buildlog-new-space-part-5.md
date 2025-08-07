@@ -1,11 +1,9 @@
 +++
-title = 'Buildlog new space part 5'
-date = '2016-07-24T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2016/07/24/allmost-two-months-further/'
-draft = 'False'
+title = "Buildlog new space part 5"
+date = "2016-07-24T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2016/07/24/allmost-two-months-further/"
+draft = false
 +++
 
 <h3 id="update-5-hacking-confirmed">Update #5 Hacking confirmed!</h3>

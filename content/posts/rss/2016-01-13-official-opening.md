@@ -1,11 +1,9 @@
 +++
-title = 'Official opening'
-date = '2016-01-13T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2016/01/13/official-opening/'
-draft = 'False'
+title = "Official opening"
+date = "2016-01-13T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2016/01/13/official-opening/"
+draft = false
 +++
 
 <p>Are you ready for a party? Because we’re planning to officially open the hackerspace on <strong>Saturday, Februari 13th</strong>. So make sure to put that date in your calendar!</p>

@@ -1,11 +1,9 @@
 +++
-title = 'International Open Hackerspace Day 2023'
-date = '2023-03-20T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2023/03/20/International-Open-Hackerspace-Day-2023/'
-draft = 'False'
+title = "International Open Hackerspace Day 2023"
+date = "2023-03-20T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2023/03/20/International-Open-Hackerspace-Day-2023/"
+draft = false
 +++
 
 <p>It is almost that time of the year again that all Hackerspaces will open their doors!

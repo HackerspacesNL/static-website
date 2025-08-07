@@ -1,11 +1,9 @@
 +++
-title = 'We have to blog more!'
-date = '2016-09-06T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2016/09/06/we-have-to-blog-more/'
-draft = 'False'
+title = "We have to blog more!"
+date = "2016-09-06T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2016/09/06/we-have-to-blog-more/"
+draft = false
 +++
 
 <h3 id="the-holidays-are-over">The holidays are over!</h3>

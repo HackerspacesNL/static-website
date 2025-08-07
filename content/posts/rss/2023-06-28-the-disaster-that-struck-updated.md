@@ -1,11 +1,9 @@
 +++
-title = 'The disaster that struck [updated]'
-date = '2023-06-28T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2023/06/28/Pixelbar-has-experienced-an-unexpected-issue/'
-draft = 'False'
+title = "The disaster that struck [updated]"
+date = "2023-06-28T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2023/06/28/Pixelbar-has-experienced-an-unexpected-issue/"
+draft = false
 +++
 
 <p>Wednesday, June 28th, at around 8:00 AM, we received distressing messages notifying us that the building housing Pixelbar was engulfed in flames. This building was not only a home to artists, furniture makers, and other builders, but it was also the heart of our community. The fire has had a devastating impact, reducing the entire structure to ashes. Fortunately, no injuries were reported.</p>

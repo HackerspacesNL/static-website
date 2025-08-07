@@ -1,11 +1,9 @@
 +++
-title = 'CryptoParty at Worm (12/12)'
-date = '2017-11-30T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2017/11/30/worm-cryptoparty/'
-draft = 'False'
+title = "CryptoParty at Worm (12/12)"
+date = "2017-11-30T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2017/11/30/worm-cryptoparty/"
+draft = false
 +++
 
 <p>Nowadays everyone is concerned about their privacy, right?</p>

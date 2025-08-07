@@ -1,11 +1,9 @@
 +++
-title = 'Buildlog new space part 2'
-date = '2016-04-28T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2016/04/28/buildlog-new-space-part-2/'
-draft = 'False'
+title = "Buildlog new space part 2"
+date = "2016-04-28T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2016/04/28/buildlog-new-space-part-2/"
+draft = false
 +++
 
 <p>So, we can start each post with a standard “we’re back again” however we though it was a better idea to show you what we did so-far. On Kingsday 2016 we came together with some of our members to start working on the walls of the new hackerspace.</p>

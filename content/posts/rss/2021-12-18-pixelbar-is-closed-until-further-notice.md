@@ -1,11 +1,9 @@
 +++
-title = 'Pixelbar is closed until further notice.'
-date = '2021-12-18T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2021/12/18/Pixelbar-is-now-closed-because-of-pandemic/'
-draft = 'False'
+title = "Pixelbar is closed until further notice."
+date = "2021-12-18T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2021/12/18/Pixelbar-is-now-closed-because-of-pandemic/"
+draft = false
 +++
 
 <p>Another day, another press conference. This time the message was clear: We need to bring down Omikron. So lockdown it is.</p>

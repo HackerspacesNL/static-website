@@ -1,11 +1,9 @@
 +++
-title = '29 November Happy Sint Pannekoek!'
-date = '2018-11-20T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2018/11/20/pancakes/'
-draft = 'False'
+title = "29 November Happy Sint Pannekoek!"
+date = "2018-11-20T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2018/11/20/pancakes/"
+draft = false
 +++
 
 <p>The 29th of November it is a party once again! Just like last year, we will be celebrating Sint Pannekoek with everybody starting <strong>at 19:00</strong>, with lots and lots of pancakes and friends! Please give us a heads up if you like to join (so we can go grocerie shopping only once :)) on to our <a href="https://slack.pixelbar.nl">Slack</a> or IRC.</p>

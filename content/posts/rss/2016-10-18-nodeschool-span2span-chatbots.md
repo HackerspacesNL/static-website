@@ -1,11 +1,9 @@
 +++
-title = 'NodeSchool <span>#2:</span> chatbots'
-date = '2016-10-18T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2016/10/18/nodeschool-2/'
-draft = 'False'
+title = "NodeSchool <span>#2:</span> chatbots"
+date = "2016-10-18T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2016/10/18/nodeschool-2/"
+draft = false
 +++
 
 <p>It’s time for the second edition of NodeSchool Rotterdam. While the first edition was mostly theoretical, this time we’re going to be doing mostly practical things. Namely: <strong>Building a chatbot!</strong> With Node.JS obviously ;-)</p>

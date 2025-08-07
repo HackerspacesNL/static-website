@@ -1,11 +1,9 @@
 +++
-title = 'The 8th Print & Pizza Night @ Pixelbar Rotterdam'
-date = '2023-07-02T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2023/07/02/eighth-print-pizza-night/'
-draft = 'False'
+title = "The 8th Print & Pizza Night @ Pixelbar Rotterdam"
+date = "2023-07-02T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2023/07/02/eighth-print-pizza-night/"
+draft = false
 +++
 
 <p>After the big fire we had to cancel and never thought we could get up and running this fast. 

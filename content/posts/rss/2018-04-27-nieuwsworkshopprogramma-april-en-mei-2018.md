@@ -1,11 +1,9 @@
 +++
-title = 'Nieuws/Workshopprogramma april en mei 2018'
-date = '2018-04-27T18:40:27'
-categories = [ 
- 'Bitlair Nieuws' 
-] 
-link = 'https://bitlair.nl/Nieuws/Workshopprogramma_april_en_mei_2018'
-draft = 'False'
+title = "Nieuws/Workshopprogramma april en mei 2018"
+date = "2018-04-27T18:40:27"
+categories = [ "Bitlair Nieuws",]
+link = "https://bitlair.nl/Nieuws/Workshopprogramma_april_en_mei_2018"
+draft = false
 +++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/Workshopprogramma april en mei 2018</a>

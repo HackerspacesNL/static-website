@@ -1,11 +1,9 @@
 +++
-title = 'Pixelbar re-opening'
-date = '2020-06-17T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2020/06/17/Pixelbar-Re-Opening/'
-draft = 'False'
+title = "Pixelbar re-opening"
+date = "2020-06-17T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2020/06/17/Pixelbar-Re-Opening/"
+draft = false
 +++
 
 <p>After the awesome BBQ we had on 13-June with our participants, we took a moment to prepare for reopening Pixelbar. The entire area was cleaned, which was no luxery after beeing closed for 2.5 months.</p>

@@ -1,11 +1,9 @@
 +++
-title = 'NodeSchool <span>#3:</span> realtime'
-date = '2016-11-23T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2016/11/23/nodeschool-3/'
-draft = 'False'
+title = "NodeSchool <span>#3:</span> realtime"
+date = "2016-11-23T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2016/11/23/nodeschool-3/"
+draft = false
 +++
 
 <p>The last time we had a lot fun building a chatbot with JavaScript in NodeJS! To continue on this journey of learning how to work with event based programming, we figured it was time to dive into websockets. Although it might be very similar to building a chatbot, we think it can be either a good lesson for new people or a fun challenge for the intermediate developer.</p>

@@ -1,11 +1,9 @@
 +++
-title = 'Come visit us during Art Rotterdam'
-date = '2019-01-09T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2019/01/09/art-rotterdam/'
-draft = 'False'
+title = "Come visit us during Art Rotterdam"
+date = "2019-01-09T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2019/01/09/art-rotterdam/"
+draft = false
 +++
 
 <p>During Art Rotterdam, on the 9th of February the <a href="https://www.facebook.com/events/408043403069709/">Keilewerf will open its doors</a>. It the breeding ground for creative entrepreneurs in Rotterdam, divided over 2 buildings with a total of 6000m2. The Keilewerf is a place for steelbenders, artist, furniture makers, musicians and ofcourse hackers. Pixelbar is located in The Keilewerf, so we’ll be opening our doors to the public too!</p>

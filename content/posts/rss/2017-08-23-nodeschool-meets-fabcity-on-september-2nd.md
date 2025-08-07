@@ -1,11 +1,9 @@
 +++
-title = 'Nodeschool meets Fabcity on September 2nd'
-date = '2017-08-23T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2017/08/23/nodeschool-fabcity/'
-draft = 'False'
+title = "Nodeschool meets Fabcity on September 2nd"
+date = "2017-08-23T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2017/08/23/nodeschool-fabcity/"
+draft = false
 +++
 
 <p>Nodeschool Rotterdam is getting bigger, better and stronger. We’re super happy to team up with <a href="http://futurefluxfestival.nl/program/fabcity-rotterdam/">Fabcity</a> on September 2 to introduce more people to NodeJS!</p>

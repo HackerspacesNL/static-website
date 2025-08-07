@@ -1,11 +1,9 @@
 +++
-title = 'The 23th 3D Print & Pizza evening @ Pixelbar Rotterdam'
-date = '2024-06-24T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2024/06/24/twentythird-print-pizza-evening/'
-draft = 'False'
+title = "The 23th 3D Print & Pizza evening @ Pixelbar Rotterdam"
+date = "2024-06-24T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2024/06/24/twentythird-print-pizza-evening/"
+draft = false
 +++
 
 <p><strong>New location! The next 3D Print &amp; Pizza evening will be held at a new location. Check the info section for more.</strong></p>

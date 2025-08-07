@@ -4,6 +4,7 @@ import feedparser
 import os
 import re
 import unicodedata
+import toml
 from datetime import datetime
 from pathlib import Path
 
@@ -37,20 +38,11 @@ def get_entry_date(entry):
         return datetime.now()
 
 def write_markdown_file(filepath, metadata, content):
-    frontmatter = "+++\n"
-    for key, value in metadata.items():
-        if isinstance(value, list):
-            frontmatter += f"{key} = [ \n"
-            for item in value:
-                frontmatter += f" '{item}' \n"
-            frontmatter += f"] \n"
-        else:
-            frontmatter += f"{key} = '{value}'\n"
-    frontmatter += "+++\n\n"
-    frontmatter += content
+    frontmatter = toml.dumps(metadata)
+    markdown = f"+++\n{frontmatter}+++\n\n{content}"
 
     with open(filepath, "w", encoding="utf-8") as f:
-        f.write(frontmatter)
+        f.write(markdown)
 
 def create_markdown(entry, source_name):
     title = entry.get("title", "No title")

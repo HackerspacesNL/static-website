@@ -1,11 +1,9 @@
 +++
-title = 'Pixelbar and COVID-19'
-date = '2020-03-15T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2020/03/15/Pixelbar-and-COVID-19/'
-draft = 'False'
+title = "Pixelbar and COVID-19"
+date = "2020-03-15T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2020/03/15/Pixelbar-and-COVID-19/"
+draft = false
 +++
 
 <p>UPDATED (24-03-2020)</p>

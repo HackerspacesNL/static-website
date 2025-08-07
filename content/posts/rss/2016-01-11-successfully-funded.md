@@ -1,11 +1,9 @@
 +++
-title = 'Successfully funded'
-date = '2016-01-11T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2016/01/11/funded/'
-draft = 'False'
+title = "Successfully funded"
+date = "2016-01-11T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2016/01/11/funded/"
+draft = false
 +++
 
 <p>Recently, we made a proposal for funding at <a href="https://www.citylab010.nl/plannen/hackerspaceinrotterdam">CityLab 010</a> (Dutch). Furthermore, we gave a pitch to the city council and other related parties to inform them about the situation in Rotterdam.</p>

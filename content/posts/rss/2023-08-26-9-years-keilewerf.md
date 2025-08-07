@@ -1,11 +1,9 @@
 +++
-title = '9 years Keilewerf'
-date = '2023-08-26T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2023/08/26/nine-years-keilewerf/'
-draft = 'False'
+title = "9 years Keilewerf"
+date = "2023-08-26T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2023/08/26/nine-years-keilewerf/"
+draft = false
 +++
 
 <p>Keilewerf has been around for 9 years and that is celebrated with an open day!

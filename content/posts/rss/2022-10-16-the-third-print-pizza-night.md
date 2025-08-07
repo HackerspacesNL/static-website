@@ -1,11 +1,9 @@
 +++
-title = 'The third Print & Pizza Night.'
-date = '2022-10-16T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2022/10/16/Third-Print-Pizza-Night/'
-draft = 'False'
+title = "The third Print & Pizza Night."
+date = "2022-10-16T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2022/10/16/Third-Print-Pizza-Night/"
+draft = false
 +++
 
 <p>At the print &amp; Pizza night everyone is welcome with an interest in 3D Printing. So are you for example an advanced DIY-builder, owner of a print farm, orientating on buying your first 3d printer or just want to see what is possible? You are welcome at the Print &amp; Pizza night hosted at Pixelbar in Rotterdam.</p>

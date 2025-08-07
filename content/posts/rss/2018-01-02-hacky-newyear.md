@@ -1,11 +1,9 @@
 +++
-title = 'Hacky Newyear'
-date = '2018-01-02T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2018/01/02/Hacky-Newyear/'
-draft = 'False'
+title = "Hacky Newyear"
+date = "2018-01-02T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2018/01/02/Hacky-Newyear/"
+draft = false
 +++
 
 <p>We want to wish everyone a very hacky newyear!</p>

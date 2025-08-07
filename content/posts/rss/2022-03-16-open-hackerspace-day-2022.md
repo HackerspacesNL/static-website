@@ -1,11 +1,9 @@
 +++
-title = 'Open Hackerspace Day 2022'
-date = '2022-03-16T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2022/03/16/Open-Hackerspace-Day-2022/'
-draft = 'False'
+title = "Open Hackerspace Day 2022"
+date = "2022-03-16T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2022/03/16/Open-Hackerspace-Day-2022/"
+draft = false
 +++
 
 <p>On the 26th of March it’s International Open Hackerspace Day! And of course Pixelbar will also open its doors for everyone. Pixelbar can be found at the Vierhavensstraat 56 in Rotterdam in the building called <a href="https://pixelbar.nl/contact/">Keilewerf 1</a>.</p>

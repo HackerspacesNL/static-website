@@ -1,11 +1,9 @@
 +++
-title = 'Pixelbar moves to online-only for now'
-date = '2020-11-06T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2020/11/06/Pixelbar-Goes-Online-Only/'
-draft = 'False'
+title = "Pixelbar moves to online-only for now"
+date = "2020-11-06T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2020/11/06/Pixelbar-Goes-Online-Only/"
+draft = false
 +++
 
 <p>Dear visitor,</p>

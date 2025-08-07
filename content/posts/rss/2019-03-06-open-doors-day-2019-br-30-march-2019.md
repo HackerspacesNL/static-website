@@ -1,11 +1,9 @@
 +++
-title = 'Open Doors Day 2019 <br />( 30 March 2019 )'
-date = '2019-03-06T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2019/03/06/open-doors-day-2019/'
-draft = 'False'
+title = "Open Doors Day 2019 <br />( 30 March 2019 )"
+date = "2019-03-06T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2019/03/06/open-doors-day-2019/"
+draft = false
 +++
 
 <p>On the 30th of March it’s International Open Hackerspace Day! And of course Pixelbar will also open its doors for everyone. Pixelbar can be found at the Vierhavensstraat 56 in Rotterdam in the building called <a href="https://www.pixelbar.nl/contact/">Keilewerf</a> 1.</p>

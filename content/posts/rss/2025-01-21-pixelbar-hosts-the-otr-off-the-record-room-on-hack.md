@@ -1,11 +1,9 @@
 +++
-title = 'Pixelbar hosts the OTR (Off The Record) Room on Hackerhotel 2025'
-date = '2025-01-21T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2025/01/21/Pixelbar-hosts-the-OTR-Room-on-hackerhotel-2025/'
-draft = 'False'
+title = "Pixelbar hosts the OTR (Off The Record) Room on Hackerhotel 2025"
+date = "2025-01-21T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2025/01/21/Pixelbar-hosts-the-OTR-Room-on-hackerhotel-2025/"
+draft = false
 +++
 
 <p>During Hacker Hotel, Pixelbar is hosting the Off The Record (OTR) Room in the meeting room Mozart. It’s a space where you can let your guard down and share stories that won’t leave the room. Think of it as an ‘Off-the-Record’ room filled with security/technology-related war stories, anecdotes, rants, discussions, and even Q&amp;A sessions. Whether it’s thrilling zero-day adventures or experiences you won’t see on cameras or the internet – everything stays in the OTR Room.</p>

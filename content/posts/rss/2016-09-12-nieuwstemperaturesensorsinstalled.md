@@ -1,11 +1,9 @@
 +++
-title = 'Nieuws/TemperatureSensorsInstalled'
-date = '2016-09-12T00:25:45'
-categories = [ 
- 'Bitlair Nieuws' 
-] 
-link = 'https://bitlair.nl/Nieuws/TemperatureSensorsInstalled'
-draft = 'False'
+title = "Nieuws/TemperatureSensorsInstalled"
+date = "2016-09-12T00:25:45"
+categories = [ "Bitlair Nieuws",]
+link = "https://bitlair.nl/Nieuws/TemperatureSensorsInstalled"
+draft = false
 +++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/TemperatureSensorsInstalled</a>

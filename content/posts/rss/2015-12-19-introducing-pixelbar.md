@@ -1,11 +1,9 @@
 +++
-title = 'Introducing Pixelbar'
-date = '2015-12-19T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2015/12/19/introducing-pixelbar/'
-draft = 'False'
+title = "Introducing Pixelbar"
+date = "2015-12-19T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2015/12/19/introducing-pixelbar/"
+draft = false
 +++
 
 <p>Starting 2016, Rotterdam will officially have a proper hackerspace: Pixelbar. We’ve been a small community and are prepping a workspace in <a href="http://stadshavensrotterdam.nl/deelgebieden/merwe-vierhavens/">M4H</a>. It’s time to meet, socialize and collaborate in 010. Bring your knowledge and ideas about computers, machinery, tech, science, digital art and let’s get this party started!</p>

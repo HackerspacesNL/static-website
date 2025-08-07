@@ -1,11 +1,9 @@
 +++
-title = 'HackerHotel 2018 <br />( 16 Februari - 18 Februari )'
-date = '2018-02-07T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2018/02/07/HackerHotel-2018/'
-draft = 'False'
+title = "HackerHotel 2018 <br />( 16 Februari - 18 Februari )"
+date = "2018-02-07T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2018/02/07/HackerHotel-2018/"
+draft = false
 +++
 
 <p>After 2 previous editions, HackerHotel will be back again in 2018. This year Pixelbar will join this awesome hacking/security conference with around 10 participants.</p>

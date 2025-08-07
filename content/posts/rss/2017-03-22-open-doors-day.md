@@ -1,11 +1,9 @@
 +++
-title = 'Open doors day'
-date = '2017-03-22T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2017/03/22/open-doors-day/'
-draft = 'False'
+title = "Open doors day"
+date = "2017-03-22T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2017/03/22/open-doors-day/"
+draft = false
 +++
 
 <p>This Saturday (March 25) 10 hackerspaces will open their doors to the public. And obviously Pixelbar we be one of those hackerspaces, as we are opening our doors for everyone that wants to visit.</p>

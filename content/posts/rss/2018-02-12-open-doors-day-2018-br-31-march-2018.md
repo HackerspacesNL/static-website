@@ -1,11 +1,9 @@
 +++
-title = 'Open Doors Day 2018 <br />( 31 March 2018 )'
-date = '2018-02-12T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2018/02/12/open-doors-day-2018/'
-draft = 'False'
+title = "Open Doors Day 2018 <br />( 31 March 2018 )"
+date = "2018-02-12T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2018/02/12/open-doors-day-2018/"
+draft = false
 +++
 
 <p>On Saturday 31’st of March Pixelbar will open it’s doors again to the public. Ofcourse we are not the only one to have an open doors day. Almost all dutch hackerspaces will have their doors open to the public.</p>

@@ -1,11 +1,9 @@
 +++
-title = 'Buildlog new space part 3'
-date = '2016-05-08T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2016/05/08/buildlog-new-space-part-3/'
-draft = 'False'
+title = "Buildlog new space part 3"
+date = "2016-05-08T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2016/05/08/buildlog-new-space-part-3/"
+draft = false
 +++
 
 <h3 id="update-3-the-floor-is-lava--no-it-aint-but-hey-it-sounds-awesome-">Update #3 The floor is lava! ( no it aint, but hey it sounds awesome! )</h3>

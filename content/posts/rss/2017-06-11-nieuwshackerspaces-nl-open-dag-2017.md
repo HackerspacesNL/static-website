@@ -1,11 +1,9 @@
 +++
-title = 'Nieuws/Hackerspaces-nl open dag 2017'
-date = '2017-06-11T15:31:56'
-categories = [ 
- 'Bitlair Nieuws' 
-] 
-link = 'https://bitlair.nl/Nieuws/Hackerspaces-nl_open_dag_2017'
-draft = 'False'
+title = "Nieuws/Hackerspaces-nl open dag 2017"
+date = "2017-06-11T15:31:56"
+categories = [ "Bitlair Nieuws",]
+link = "https://bitlair.nl/Nieuws/Hackerspaces-nl_open_dag_2017"
+draft = false
 +++
 
 <div class="mw-content-ltr mw-parser-output" dir="ltr" lang="en"><p><a class="mw-selflink selflink">Nieuws/Hackerspaces-nl open dag 2017</a>

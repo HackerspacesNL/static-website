@@ -1,11 +1,9 @@
 +++
-title = 'Brenno de Winter will open the space'
-date = '2016-01-21T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2016/01/21/join-our-opening/'
-draft = 'False'
+title = "Brenno de Winter will open the space"
+date = "2016-01-21T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2016/01/21/join-our-opening/"
+draft = false
 +++
 
 <p>Our opening starts at <strong>2 PM on Saturday, Februari 13th</strong>. Like we said before, we have some awesome things planned for you, so make sure to be on time!</p>

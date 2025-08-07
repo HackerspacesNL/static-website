@@ -1,11 +1,9 @@
 +++
-title = 'Moved: Hacking Insights @ Pixelbar Rotterdam'
-date = '2024-06-23T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2024/06/23/moved-hacking-insights-rotterdam-28-july/'
-draft = 'False'
+title = "Moved: Hacking Insights @ Pixelbar Rotterdam"
+date = "2024-06-23T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2024/06/23/moved-hacking-insights-rotterdam-28-july/"
+draft = false
 +++
 
 <p><strong>Hacking insights was orginally planned for 25 June 2024, however Pixelbar is moving to a larger space so more people can attend. Due to the move, we’ve moved the hacking insights to Sunday 28 July 2024</strong></p>

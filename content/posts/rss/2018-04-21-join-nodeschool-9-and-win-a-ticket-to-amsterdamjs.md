@@ -1,11 +1,9 @@
 +++
-title = 'Join NodeSchool #9 and win a ticket to AmsterdamJS!'
-date = '2018-04-21T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2018/04/21/nodeschool-9/'
-draft = 'False'
+title = "Join NodeSchool #9 and win a ticket to AmsterdamJS!"
+date = "2018-04-21T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2018/04/21/nodeschool-9/"
+draft = false
 +++
 
 <p><a href="http://meetu.ps/e/F8Lmc/1VyxL/f"><img alt="NodeSchool" src="https://www.pixelbar.nl/public/images/click-bait-nodeschool9.png" /></a></p>

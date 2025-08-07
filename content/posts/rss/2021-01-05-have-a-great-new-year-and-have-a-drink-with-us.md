@@ -1,11 +1,9 @@
 +++
-title = 'Have a great new year, and have a drink with us!'
-date = '2021-01-05T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2021/01/05/Pixelbar-New-Years-Drinks/'
-draft = 'False'
+title = "Have a great new year, and have a drink with us!"
+date = "2021-01-05T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2021/01/05/Pixelbar-New-Years-Drinks/"
+draft = false
 +++
 
 <p>Happy New Year!</p>

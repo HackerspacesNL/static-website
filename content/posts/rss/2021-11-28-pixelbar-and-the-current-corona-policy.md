@@ -1,11 +1,9 @@
 +++
-title = 'Pixelbar and the current Corona Policy.'
-date = '2021-11-28T00:00:00'
-categories = [ 
- 'pixelbar' 
-] 
-link = 'http://pixelbar.github.io/2021/11/28/Pixelbar-and-current-corona-policy/'
-draft = 'False'
+title = "Pixelbar and the current Corona Policy."
+date = "2021-11-28T00:00:00"
+categories = [ "pixelbar",]
+link = "http://pixelbar.github.io/2021/11/28/Pixelbar-and-current-corona-policy/"
+draft = false
 +++
 
 <p>Friday night (26-11-2021), like many, we watched the press conference in slight tension and what measures would be issued. The big question was if there will be a complete lockdown again – or not.</p>
