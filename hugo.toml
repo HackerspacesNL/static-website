@@ -8,6 +8,7 @@ defaultContentLanguage = "nl"
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "papermod"
 pagination.pagerSize = 5
+ignoreLogs = ['warning-goldmark-raw-html']
 
 # Required for Chroma and the custom syntax highlighting.
 [markup.highlight]
