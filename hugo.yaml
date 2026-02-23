@@ -1,5 +1,5 @@
 title: Hackerspaces in Nederland
-baseurl: /hugo/
+baseurl: /
 languageCode: nl-nl
 defaultContentLanguage: nl
 theme: papermod
@@ -27,7 +27,7 @@ params:
 languages:
   nl:
     languageName: NL
-    title: Hackerspaces in Nederland
+    title: Hackerspaces in Nederland (Development version)
 taxonomies:
   category: categories
   tag: tags
