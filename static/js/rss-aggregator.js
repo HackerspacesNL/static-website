@@ -1,64 +1,52 @@
-// ===== CONFIG =====
-// Bitlair: "https://bitlair.nl/Special:Ask/-5B-5BCategory:Nieuws-5D-5D/mainlabel%3D/limit%3D50/order%3Ddesc/sort%3DNews-20date/offset%3D0/format%3Dfeed/searchlabel%3DAtom/type%3Datom/title%3DBitlair-20Nieuws/page%3Dfull"
-// Hackerspace Drenthe: "https://www.hackerspace-drenthe.nl/feed/"
-// Pixelbar (Rotterdam): "https://www.pixelbar.nl/atom.xml"
-// Revspace (Den Haag): "https://revspace.nl/index.php?title=Special%3AAsk&q=%5B%5BCategory%3ANewsItem%5D%5D%0D%0A&po=&eq=yes&p%5Bformat%5D=feed&sort_num=&order_num=ASC&p%5Blimit%5D=&p%5Boffset%5D=&p%5Blink%5D=all&p%5Bsort%5D=NewsItem_Date&p%5Border%5D%5Bdesc%5D=1&p%5Bheaders%5D="
-// TD-Venlo: "http://tdvenlo.nl/?feed=atom"
-// Tkkrlab (Enschede): "https://www.tkkrlab.com/feed/"
-// Hack42 (Arnhem): "https://hack42.nl/blog/feed"
+const FEED_URL = "/hugo/feed.xml";
 
-// OPTIONAL: public proxy (for testing only)
-const FEEDURL = "https://hackerspaces.nl/hugo/feed.xml";
-
-// ===== MAIN =====
-async function loadFeeds() {
+async function loadFeed() {
   const container = document.getElementById("rss-feed");
   container.innerHTML = "Loading...";
 
-  let allItems = [];
+  try {
+    const response = await fetch(FEED_URL);
+    const text = await response.text();
 
-    try {
-      const response = await fetch(FEEDURL);
-      const text = await response.text();
-      const parser = new DOMParser();
-      const xml = parser.parseFromString(text, "application/xml");
+    const parser = new DOMParser();
+    const xml = parser.parseFromString(text, "application/xml");
 
-      const items = xml.querySelectorAll("item");
+    let items = [];
 
-      items.forEach(item => {
-        const title = item.querySelector("title")?.textContent ?? "No title";
-        const link = item.querySelector("link")?.textContent ?? "#";
-        const description = item.querySelector("description")?.textContent ?? "";
-        const pubDate = item.querySelector("pubDate")?.textContent ?? "";
-        const date = new Date(pubDate);
-
-        allItems.push({
-          title,
-          link,
-          description,
-          date,
-          source: feed.name
-        });
+    // Handle RSS
+    xml.querySelectorAll("item").forEach(item => {
+      items.push({
+        title: item.querySelector("title")?.textContent ?? "No title",
+        link: item.querySelector("link")?.textContent ?? "#",
+        description: item.querySelector("description")?.textContent ?? "",
+        date: new Date(item.querySelector("pubDate")?.textContent ?? "")
       });
+    });
 
-    } catch (err) {
-      console.error("Failed to load feed:", feed.url, err);
-    }
+    // Handle Atom
+    xml.querySelectorAll("entry").forEach(entry => {
+      items.push({
+        title: entry.querySelector("title")?.textContent ?? "No title",
+        link: entry.querySelector("link")?.getAttribute("href") ?? "#",
+        description: entry.querySelector("summary")?.textContent ??
+                     entry.querySelector("content")?.textContent ?? "",
+        date: new Date(entry.querySelector("updated")?.textContent ?? "")
+      });
+    });
 
-  // Sort newest first
-  allItems.sort((a, b) => b.date - a.date);
+    items.sort((a, b) => b.date - a.date);
 
-  renderItems(allItems.slice(0, 20));
+    renderItems(items.slice(0, 30));
+
+  } catch (err) {
+    container.innerHTML = "Failed to load feed.";
+    console.error(err);
+  }
 }
 
 function renderItems(items) {
   const container = document.getElementById("rss-feed");
   container.innerHTML = "";
-
-  if (items.length === 0) {
-    container.innerHTML = "No items found.";
-    return;
-  }
 
   items.forEach(item => {
     const div = document.createElement("div");
@@ -70,8 +58,8 @@ function renderItems(items) {
           ${item.title}
         </a>
       </h3>
-      <small>${item.source} — ${item.date.toLocaleDateString()}</small>
-      <p>${stripHtml(item.description).slice(0, 200)}...</p>
+      <small>${item.date.toLocaleDateString()}</small>
+      <p>${stripHtml(item.description).slice(0, 250)}...</p>
       <hr/>
     `;
 
@@ -85,4 +73,4 @@ function stripHtml(html) {
   return tmp.textContent || tmp.innerText || "";
 }
 
-loadFeeds();
+loadFeed();
