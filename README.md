@@ -7,16 +7,20 @@ website using Hugo to create a static version of the website.
 
 - Most of the 'fixed' pages
 - The Map of the hackerspaces
-- Integration of the rss-feeds (processed manually at this time)
 - Client-side search (/search)
 
 ### Still missing
 
-- Fixing layout/design/styling, currently using 'papermod' theme
+- Fixing layout/design/styling, currently using 'papermod' theme, but
+  switching over to 'terminal' in the 'dev' branch
 - Mediatheek page links, and fixing dead links there
-- Automated deployment workflow
-- Method to publish / preview drafts
+- Automated deployment workflow (partial)
+- Method to publish / preview drafts (dev.hackerspaces.nl will pull
+  from the 'dev' branch in git. The main branch will be served on
+  the base hackerspaces.nl url)
+- Rendering of rss-feeds (feeds are combined on the server into a single
+  feeds.xml file from a cronjob)
 
 ## Helping
 
-If you can help, you are more then welcome to join us. All the code is in this repository
+If you can help, you are more then welcome to join us. All the code is in this repository. Some issues have been created to keep track of todo-items
