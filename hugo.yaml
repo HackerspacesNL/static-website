@@ -10,6 +10,9 @@ ignoreLogs:
 markup:
   highlight:
     noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
 params:
   contentTypeName: posts
   showMenuItems: 12
