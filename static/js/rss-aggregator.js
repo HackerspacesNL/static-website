@@ -1,37 +1,14 @@
 // ===== CONFIG =====
-const FEEDS = [
-  {
-    name: "Bitlair (Amersfoort)",
-    url: "https://bitlair.nl/Special:Ask/-5B-5BCategory:Nieuws-5D-5D/mainlabel%3D/limit%3D50/order%3Ddesc/sort%3DNews-20date/offset%3D0/format%3Dfeed/searchlabel%3DAtom/type%3Datom/title%3DBitlair-20Nieuws/page%3Dfull"
-  },
-  {
-    name: "Hackerspace Drenthe",
-    url: "https://www.hackerspace-drenthe.nl/feed/"
-  },
-  {
-    name: "Pixelbar (Rotterdam)",
-    url: "https://www.pixelbar.nl/atom.xml"
-  },
-  {
-    name: "Revspace (Den Haag)",
-    url: "https://revspace.nl/index.php?title=Special%3AAsk&q=%5B%5BCategory%3ANewsItem%5D%5D%0D%0A&po=&eq=yes&p%5Bformat%5D=feed&sort_num=&order_num=ASC&p%5Blimit%5D=&p%5Boffset%5D=&p%5Blink%5D=all&p%5Bsort%5D=NewsItem_Date&p%5Border%5D%5Bdesc%5D=1&p%5Bheaders%5D="
-  },
-  {
-    name: "TD-Venlo",
-    url: "http://tdvenlo.nl/?feed=atom"
-  },
-  {
-    name: "Tkkrlab (Enschede)",
-    url: "https://www.tkkrlab.com/feed/"
-  },
-  {
-    name: "Hack42 (Arnhem)",
-    url: "https://hack42.nl/blog/feed"
-  }
-];
+// Bitlair: "https://bitlair.nl/Special:Ask/-5B-5BCategory:Nieuws-5D-5D/mainlabel%3D/limit%3D50/order%3Ddesc/sort%3DNews-20date/offset%3D0/format%3Dfeed/searchlabel%3DAtom/type%3Datom/title%3DBitlair-20Nieuws/page%3Dfull"
+// Hackerspace Drenthe: "https://www.hackerspace-drenthe.nl/feed/"
+// Pixelbar (Rotterdam): "https://www.pixelbar.nl/atom.xml"
+// Revspace (Den Haag): "https://revspace.nl/index.php?title=Special%3AAsk&q=%5B%5BCategory%3ANewsItem%5D%5D%0D%0A&po=&eq=yes&p%5Bformat%5D=feed&sort_num=&order_num=ASC&p%5Blimit%5D=&p%5Boffset%5D=&p%5Blink%5D=all&p%5Bsort%5D=NewsItem_Date&p%5Border%5D%5Bdesc%5D=1&p%5Bheaders%5D="
+// TD-Venlo: "http://tdvenlo.nl/?feed=atom"
+// Tkkrlab (Enschede): "https://www.tkkrlab.com/feed/"
+// Hack42 (Arnhem): "https://hack42.nl/blog/feed"
 
 // OPTIONAL: public proxy (for testing only)
-const CORS_PROXY = "https://hackerspaces.nl/rss-proxy?url=";
+const FEEDURL = "https://hackerspaces.nl/hugo/feed.xml";
 
 // ===== MAIN =====
 async function loadFeeds() {
@@ -40,9 +17,8 @@ async function loadFeeds() {
 
   let allItems = [];
 
-  for (let feed of FEEDS) {
     try {
-      const response = await fetch(CORS_PROXY + encodeURIComponent(feed.url));
+      const response = await fetch(FEEDURL);
       const text = await response.text();
       const parser = new DOMParser();
       const xml = parser.parseFromString(text, "application/xml");
@@ -68,7 +44,6 @@ async function loadFeeds() {
     } catch (err) {
       console.error("Failed to load feed:", feed.url, err);
     }
-  }
 
   // Sort newest first
   allItems.sort((a, b) => b.date - a.date);
