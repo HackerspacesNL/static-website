@@ -2,7 +2,7 @@ title: Hackerspaces in Nederland
 baseurl: /
 languageCode: nl-nl
 defaultContentLanguage: nl
-theme: papermod
+theme: teminal
 pagination:
   pagerSize: 5
 ignoreLogs:
