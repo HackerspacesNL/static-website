@@ -24,6 +24,8 @@ params:
   showLastUpdated: true
   Toc: false
   dateFormat: 2006-01-02
+  Logo:
+    logoText: "Hackerspaces in Nederland (Development version)"
 languages:
   nl:
     languageName: NL
