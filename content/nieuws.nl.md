@@ -6,4 +6,4 @@ title: "Hackerspaces Nieuws"
   Loading feeds...
 </div>
 
-<script src="/js/rss-aggregator.js"></script>
+<script src="../js/rss-aggregator.js"></script>

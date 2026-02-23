@@ -31,7 +31,7 @@ const FEEDS = [
 ];
 
 // OPTIONAL: public proxy (for testing only)
-const CORS_PROXY = "https://api.allorigins.win/raw?url=";
+const CORS_PROXY = "https://hackerspaces.nl/rss-proxy?url=";
 
 // ===== MAIN =====
 async function loadFeeds() {
