@@ -11,8 +11,7 @@ website using Hugo to create a static version of the website.
 
 ### Still missing
 
-- Fixing layout/design/styling, currently using 'papermod' theme, but
-  switching over to 'terminal' in the 'dev' branch
+- Fixing layout/design/styling, using the 'terminal' theme.
 - Mediatheek page links, and fixing dead links there
 - Automated deployment workflow (partial)
 - Method to publish / preview drafts (dev.hackerspaces.nl will pull
