@@ -25,11 +25,11 @@ params:
   Toc: false
   dateFormat: 2006-01-02
   Logo:
-    logoText: "Hackerspaces in Nederland (Development version)"
+    logoText: "Hackerspaces in Nederland"
 languages:
   nl:
     languageName: NL
-    title: Hackerspaces in Nederland (Development version)
+    title: Hackerspaces in Nederland
 taxonomies:
   category: categories
   tag: tags
