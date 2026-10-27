@@ -1,6 +1,6 @@
 +++
 title = "Colofon"
-date = di 27 okt 2026 22:06:45 CET
+date = 2026-10-27T22:15:00+01:00
 draft = false
 +++
 
