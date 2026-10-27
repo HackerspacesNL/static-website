@@ -1,0 +1,5 @@
+params:
+  showDraftBanner: true
+  Logo:
+    logoText: "Hackerspaces in Nederland"
+
