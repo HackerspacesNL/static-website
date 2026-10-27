@@ -38,3 +38,5 @@ outputs:
     - HTML
     - RSS
     - JSON
+copyright: "<A HREF='https://github.com/HackerspacesNL/static-website'><img src='git-64x64.png'>Hackerspaces.nl</A>"
+
