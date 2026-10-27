@@ -1,0 +1,9 @@
+title: Hackerspaces in Nederland
+params:
+  showDraftBanner: false
+  Logo:
+    logoText: "Hackerspaces in Nederland"
+languages:
+  nl:
+    languageName: NL
+    title: "Hackerspaces in Nederland"
