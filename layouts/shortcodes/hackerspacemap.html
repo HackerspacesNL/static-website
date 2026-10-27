@@ -95,7 +95,7 @@
         return new L.Marker(latlon, { icon: icon });
       }
 
-      var geojsonURL = 'https://hackerspaces.nl/hsmap/hsnl.geojson';
+      var geojsonURL = '/hsmap/hsnl.geojson';
       $.ajax({
         type: "GET",
         url: geojsonURL,
