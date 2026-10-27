@@ -2,7 +2,7 @@ title: Hackerspaces in Nederland
 baseurl: /
 languageCode: nl-nl
 defaultContentLanguage: nl
-theme: papermod
+theme: terminal
 pagination:
   pagerSize: 5
 ignoreLogs:
@@ -24,10 +24,12 @@ params:
   showLastUpdated: true
   Toc: false
   dateFormat: 2006-01-02
+  Logo:
+    logoText: "Hackerspaces in Nederland (Development version)"
 languages:
   nl:
     languageName: NL
-    title: Hackerspaces in Nederland
+    title: Hackerspaces in Nederland (Development version)
 taxonomies:
   category: categories
   tag: tags
