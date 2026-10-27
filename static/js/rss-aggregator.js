@@ -1,4 +1,4 @@
-const FEED_URL = "/hugo/feed.xml";
+const FEED_URL = "/feed.xml";
 
 async function loadFeed() {
   const container = document.getElementById("rss-feed");
